@@ -1,3 +1,4 @@
+#This script genereates the kmer .fasta file
 import sys
 import glob
 from Bio import SeqIO
